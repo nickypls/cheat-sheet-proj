@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color:cornflowerblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    border: 3px solid darkblue;
+    width: 700px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+th, td{
+    border: 1px solid blue;
+    text-align: center;
+    width: 1px;
+}
